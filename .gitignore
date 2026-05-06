@@ -1,0 +1,12 @@
+.env
+your_resume.pdf
+candidate_profile.json
+tailored_resumes/
+score_cache.json
+applied_jobs.json
+outreach_prep.json
+pycache/
+.claude
+job_search_tracker.xlsx
+venv/
+.pyc

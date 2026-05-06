@@ -1,0 +1,9 @@
+anthropic
+python-dotenv
+pymupdf
+reportlab
+openpyxl
+pandas
+requests
+playwright
+python-jobspy
