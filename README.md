@@ -72,7 +72,7 @@ job-agent/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/job-agent.git
+git clone https://github.com/hitankshi09/job-agent.git
 cd job-agent
 ```
 
